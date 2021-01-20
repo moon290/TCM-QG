@@ -1,11 +1,6 @@
 # TCM-QG
 阿里云天池中医大数据竞赛-中医文献问题生成比赛Rank2攻略
 
-# [“万创杯”中医文献问题生成](https://tianchi.aliyun.com/competition/entrance/531826/rankingList)
-**参赛选手**：[李婵娟](https://moon290.github.io/)，[罗诚](https://github.com/wulaoshi)
-
-**实验室**：[四川大学，Dilab](https://github.com/dilab-scu)
-
 ### 1.赛题背景分析及理解
 #### 1.1背景
 - 根据上下文 Text 与答案A，输出问题 Q ，一般当做生成式问题来解决。
